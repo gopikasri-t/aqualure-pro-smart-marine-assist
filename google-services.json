@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369743649215",
+    "project_id": "aqualure-pro",
+    "storage_bucket": "aqualure-pro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369743649215:android:2e8ac295fbb4e161ac690a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLXXpZt8iyyZ_Hka6L_zIBYYY16h95aNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
